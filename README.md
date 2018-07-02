@@ -8,7 +8,7 @@ Add this to your application's `shard.yml`:
 
 ```yaml
 dependencies:
-  eighttrack:
+  stathat:
     github: russ/stathat
 ```
 
@@ -27,7 +27,7 @@ StatHat::Client.post_count("yourstatname", 1)
 
 ## Contributing
 
-1. Fork it ( https://github.com/russ/EightTrack/fork )
+1. Fork it ( https://github.com/russ/stathat/fork )
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
