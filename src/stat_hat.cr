@@ -1,0 +1,1 @@
+require "./stat_hat/*"

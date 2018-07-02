@@ -1,0 +1,6 @@
+version: 1.0
+shards:
+  habitat:
+    github: luckyframework/habitat
+    commit: 8e90874066a5f5ab1617ad884c6b525cd28bd4a8
+

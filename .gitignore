@@ -1,0 +1,17 @@
+/docs/
+/lib/
+/.shards/
+/node_modules
+yarn-error.log
+/public/
+/bin/lucky/
+/build
+server
+.env*
+*.dwarf
+*.zip
+*.local.cr
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+.overmind.sock
